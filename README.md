@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">I'm Ahmed, a full-time full-stack developer👨‍💻 working since 2018🚀</div>
 
@@ -104,8 +103,7 @@
 <a href="https://stackoverflow.com/users/8314213/ahmed" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -115,21 +113,16 @@
 
 <br/>
 
-## Recent Blog Posts
-
 <br/>
 
 <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
 <br />
 
 ---
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
